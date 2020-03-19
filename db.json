@@ -1,20 +1,5 @@
 {
-  "logs": [
-    {
-      "message": "New log message",
-      "attention": false,
-      "tech": "Amirmohamad Bashiri",
-      "date": "2020-03-19T08:32:30.251Z",
-      "id": 1
-    },
-    {
-      "message": "So close",
-      "id": 2,
-      "attention": true,
-      "tech": "Amirmohamad Bashiri",
-      "date": "2020-03-19T09:00:59.990Z"
-    }
-  ],
+  "logs": [],
   "techs": [
     {
       "id": 1,
